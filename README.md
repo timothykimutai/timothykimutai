@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Timothy — Data Scientist | AI Builder | Storyteller with Code
 
-Welcome to my GitHub! I build intelligent systems that extract insights, solve real-world problems, and sometimes surprise even me 🤖📊
+Welcome to my GitHub! I build intelligent systems that extract insights, solve real-world problems.
 
 ---
 
