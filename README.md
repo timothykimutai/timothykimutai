@@ -1,8 +1,4 @@
-# 👋 Hi there, I'm Timothy — Data Scientist | AI Builder | Storyteller with Code
-
-Welcome to my GitHub! I build intelligent systems that extract insights, solve real-world problems.
-
----
+# 👋 Hi there, Timothy Here!
 
 ## What I Do
 - 🧪 **Data Science** — from exploration to deployment: pandas | sklearn | XGBoost | PyTorch<br/>
